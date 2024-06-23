@@ -6,9 +6,13 @@
     "module": "ESNext",
     "moduleResolution": "bundler",
     "paths": {
-      "~/*": ["./src/*"]
+      "~/*": [
+        "./src/*"
+      ]
     },
-    "types": ["vinxi/types/client"],
+    "types": [
+      "vinxi/types/client"
+    ],
     "allowJs": true,
     "strict": true,
     "noEmit": true,
