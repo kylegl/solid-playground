@@ -9,6 +9,7 @@ export default function Counter() {
     >
       Clicks:
       {' '}
+
       {count()}
     </button>
   )

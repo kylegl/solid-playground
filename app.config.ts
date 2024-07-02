@@ -6,7 +6,7 @@ export default defineConfig({
   vite: {
     plugins: [
       UnoCSS(),
-      devtools(),
+      devtools({ autoname: true }),
     ],
   },
 })
