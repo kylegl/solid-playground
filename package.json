@@ -11,7 +11,7 @@
     "start": "vinxi start",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "shad:add": "npx solidui-cli@latest add"
+    "shad:add": "npx shadcn-solid@latest add"
   },
   "dependencies": {
     "@kobalte/core": "^0.13.3",
